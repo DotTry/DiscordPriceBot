@@ -1,9 +1,9 @@
-###Discord Bot connected to CoinmarketCap & Cryptowat.ch API
+### Discord Bot connected to CoinmarketCap & Cryptowat.ch API
 
 Simple Chat Bot for Price Updates, written in nodejs.
 
 ```markdown
-## Installation
+# Installation
 
 1) npm install
 
